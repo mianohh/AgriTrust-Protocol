@@ -72,8 +72,8 @@
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/agritrust-protocol.git
-cd agritrust-protocol
+git clone https://github.com/mianohh/AgriTrust-Protocol.git
+cd AgriTrust-Protocol
 ```
 
 2. **Database Setup**
@@ -254,8 +254,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/agritrust-protocol/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/agritrust-protocol/discussions)
+- **Issues**: [GitHub Issues](https://github.com/mianohh/AgriTrust-Protocol/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mianohh/AgriTrust-Protocol/discussions)
 - **Email**: support@agritrustprotocol.com
 
 ---
