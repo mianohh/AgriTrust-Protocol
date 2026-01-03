@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agritrustprotocol.42web.io/sitemap.xml

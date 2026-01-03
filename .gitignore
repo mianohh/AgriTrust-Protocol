@@ -1,0 +1,38 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Database backups
+*.sql.backup
+*.dump
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache files
+cache/
+tmp/
+
+# Upload directories (if any)
+uploads/
+images/temp/
+
+# Test files
+test_db.php
+debug.php
